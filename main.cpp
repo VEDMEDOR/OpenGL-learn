@@ -1,7 +1,9 @@
+#include <iostream>
 int main()
 {
 	std::cout<<"Worek";
-	return 0;
+	std::cout<<endl<<"Jaworek";    //hoho
+	return 2;
 }
 
 
